@@ -2,7 +2,7 @@
 
 A modern, conversion-focused redesign of the DeoVR landing page created as an AI-assisted UI/UX improvement challenge.
 
-Live demo: https://deovr-landing-redesign-4zyyzuf7q-gregory8.vercel.app/
+Live demo: https://deovr-landing-redesign.vercel.app/
 
 ---
 
